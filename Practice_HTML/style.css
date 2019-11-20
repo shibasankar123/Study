@@ -1,0 +1,21 @@
+body{
+    margin: auto;
+    padding: auto;
+    font-family: sans-serif,Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    background-color: #e9ebee;
+}
+.row{
+    border: 5px solid #ffff;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+    padding: 20px;
+    width: 550px;
+    height: 350px;
+    position: absolute;
+    margin-left: 31%;
+    margin-top: 10%;
+    background-color: #ffff;
+}
